@@ -1,1 +1,1 @@
-"# vcard" 
+# vcard
